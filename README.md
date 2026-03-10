@@ -1,7 +1,7 @@
  # Bookshelf Tracker #
 
  ## Project Overview ##
-This is a simple React app for tracking books you want to read, are currently reading, and have finished. You are able to
+This is a simple React app for tracking books you want to read, are currently reading, and have finished. It allows users to manage all of their personal reading in one place and keep track of their progress.
 
  ## Planned Features ##
 1. Add Books
@@ -18,3 +18,6 @@ This is a simple React app for tracking books you want to read, are currently re
  3. LocalStorage (swap to cloud storage later)
  4. Authentication will be added later
  5. Tailwind CSS
+
+## Live Site Link ##
+[https://midterm-book-tracker.netlify.app/](https://midterm-book-tracker.netlify.app/)
