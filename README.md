@@ -4,13 +4,13 @@
 This is a simple React app for tracking books you want to read, are currently reading, and have finished. It allows users to manage all of their personal reading in one place and keep track of their progress.
 
  ## Planned Features ##
-1. Add Books
-2. Edit Books
-3. Delete Books
-4. Keep Track of Reading Status
-5. Rate Books
-6. Search for Books
-7. Filter Search by Reading Status
+1. Add Books (core)
+2. Edit Books (core)
+3. Delete Books (core)
+4. Search for Books (core)
+5. Filter Search by Reading Status (core)
+6. Keep Track of Reading Status (additional)
+7. Rate Books (additional)
 
  ## Tech Stack ##
  1. React
