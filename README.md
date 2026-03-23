@@ -11,6 +11,7 @@ This is a simple React app for tracking books you want to read, are currently re
 5. Filter Search by Reading Status (core)
 6. Keep Track of Reading Status (additional)
 7. Rate Books (additional)
+8. new feature
 
 ## Tech Stack ##
  1. React
