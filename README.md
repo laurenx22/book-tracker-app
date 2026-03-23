@@ -1,9 +1,9 @@
- # Bookshelf Tracker #
+# Bookshelf Tracker #
 
- ## Project Overview ##
+## Project Overview ##
 This is a simple React app for tracking books you want to read, are currently reading, and have finished. It allows users to manage all of their personal reading in one place and keep track of their progress.
 
- ## Planned Features ##
+## Planned Features ##
 1. Add Books (core)
 2. Edit Books (core)
 3. Delete Books (core)
@@ -12,7 +12,7 @@ This is a simple React app for tracking books you want to read, are currently re
 6. Keep Track of Reading Status (additional)
 7. Rate Books (additional)
 
- ## Tech Stack ##
+## Tech Stack ##
  1. React
  2. Vite
  3. LocalStorage (swap to cloud storage later)
