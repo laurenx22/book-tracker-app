@@ -20,24 +20,27 @@ This is a simple React app for tracking books you want to read, are currently re
  6. Recharts
 
 ## Setup Instructions ##
-- create profile
-- check email
-- log in
-- add books to have database and stats shown
-- go to settings to edit profile
+1. Clone the repository
+2. Run npm install
+3. Create a .env.local file and input these:
+   
+   `VITE_SUPABASE_URL=https://onadyxpuqxfddxhcmcyw.supabase.co
+    VITE_SUPABASE_ANON_KEY=sb_publishable_3hPg_7KvjeKJgLhuobIutQ_eAfCoWLf`
+5. Run npm run dev
+6. Click your localhost link
+7. From there you can signup, login, and interact with the bookshelf tracker.
 
 ## Known Bugs Or Limitations ##
-- email must be approved before login
+1. User email must be confirmed before users are allowed to login for security reasons. This might limit people who are trying to make an account.
+2. There is no way to upload media yet, so there are no photos for your book covers.
+3. As of right now there is also no "home page" that allows users to interact with other users.
 
 ## What I Learned ##
-- take one step at a time
-- get it functioning first
-- how to set up the database on supabase and how to connect it all
-- about env keys etc
+I learned how to build a full-stack application using React and Supabase. I have not previously worked with Supabase before, so I  learned about how to set up a database and connect keys within that platform. I am also learning how to perfect my process when using
+AI tools and making sure I go one step at a time while focusing on getting something functional first.
 
 ## Architecture Overview ##
-frontend-
-backend-
+The frontend is build using React. This handles all of the user interactions, routing, and state management. The backend is built using Supabase. It handles authentication and cloud storage.
 
 ## Database Structure ##
 Profiles table holds user infomation with user id (unique and generated), name, username, and biography.
