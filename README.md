@@ -14,7 +14,8 @@ This is a simple React app for tracking books you want to read, are currently re
 8. User Preference View Toggle (core)
 
 ## Technologies Used ##
- 1. React (Vite)
+ 1. Claude Code
+ 2. React (Vite)
  3. Cloud storage and authentication through Supabase
  5. Tailwind CSS
  6. Recharts
